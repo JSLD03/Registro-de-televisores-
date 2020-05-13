@@ -21,7 +21,7 @@ Despues de descargado , seguimos a  descomprimir el archivo el cual mostrara est
 *Editar dicha informacion del cliente y su compra.  
 *Grafica demostrando  la implementacion del cliente.  
 *Cambio de idioma.   
-*Calcular raiz de cualquier numero.
+*Calcular raiz de cualquier numero.  
 ⋅⋅* Unordered sub-list. 
 
 
