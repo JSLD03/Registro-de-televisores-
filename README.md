@@ -5,3 +5,22 @@ Da un resultado muy eficiente ya que este programa archiva los datos del cliente
 Si hay algun problema de idioma este programa tambien lo solucionara puesto que esta adaptado para mas de 2 idiomas.
 
 
+###Explicacion de como descargar y utilizar el programa     
+Primero que todo debemos ir al Boton  llamado (   clonar o descargar) este boton hara que se nos descargue una carpeta .
+
+
+
+
+
+Despues de descargado , seguimos a  descomprimir el archivo el cual mostrara esto y ejecutaremos el archiv (TP_2)o tambien llamado .exe
+
+
+
+###Funciones del proyecto.
+..*Guardar informacion del cliente y de su compra 
+..*Editar dicha informacion del cliente y su compra
+..* Grafica demostrando  la implementacion del cliente
+..*Cambio de idioma
+..* Calcular raiz de cualquier numero.
+
+
