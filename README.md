@@ -16,7 +16,7 @@ Despues de descargado , seguimos a  descomprimir el archivo el cual mostrara est
 
 
 
-###Funciones del proyecto.    
+###Funciones del proyecto  
 ..* Guardar informacion del cliente y de su compra.  
 ..* Editar dicha informacion del cliente y su compra.  
 ..* Grafica demostrando  la implementacion del cliente.  
