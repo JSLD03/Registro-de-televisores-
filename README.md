@@ -44,7 +44,7 @@ Debido ejemplo de la situacion.
   (implemento foto)
 
 
-
+![alt text](https://i.imgur.com/bZEgQ3d.png "Logo Title Text 3")
 
 
 3.Grafica demostrando  la implementacion del cliente.
@@ -58,6 +58,7 @@ Ejemplo de la grafica
 (implemento foto)
 
 
+![alt text](https://i.imgur.com/bQbhE5q.jpg "Logo Title Text 4")
 
 4.Cambio de idioma.
   
@@ -67,6 +68,15 @@ Adjunto fotos para los ejemplos.
 
 
 
+![alt text](https://i.imgur.com/Qke3d9p.jpg "Logo Title Text 5")
+
+##### Idioma ingles.
+
+![alt text](https://i.imgur.com/ohdPI7t.png "Logo Title Text 6")
+
+##### Idioma German.
+
+![alt text](https://i.imgur.com/9Dw32sk.png "Logo Title Text 7")
 
 
 
@@ -82,3 +92,4 @@ Esta opcion hace que un numero de mas de dos digitos se sumen entre si esto es e
 Adjunto foto de un ejemplo.
 
 
+![alt text](https://i.imgur.com/s36i9C0.jpg "Logo Title Text 7")
