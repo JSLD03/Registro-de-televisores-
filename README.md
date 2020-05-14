@@ -5,10 +5,13 @@ Da un resultado muy eficiente ya que este programa archiva los datos del cliente
 Si hay algun problema de idioma este programa tambien lo solucionara puesto que esta adaptado para mas de 2 idiomas.
 
 
-###Explicacion de como descargar y utilizar el programa     
+### Explicacion de como descargar y utilizar el programa 
 Primero que todo debemos ir al Boton  llamado (   clonar o descargar) este boton hara que se nos descargue una carpeta .
 
+Reference-style: 
+![alt text][logo]
 
+[logo]: https://ibb.co/Vgn79mS "Logo Title Text 2"
 
 
 
