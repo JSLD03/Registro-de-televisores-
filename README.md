@@ -8,10 +8,8 @@ Si hay algun problema de idioma este programa tambien lo solucionara puesto que 
 ### Explicacion de como descargar y utilizar el programa 
 Primero que todo debemos ir al Boton  llamado (   clonar o descargar) este boton hara que se nos descargue una carpeta .
 
-Reference-style: 
-![alt text][logo]
 
-[logo]: https://ibb.co/Vgn79mS "Logo Title Text 2"
+![alt text](https://i.imgur.com/8R68C02.png "Logo Title Text 1")
 
 
 
