@@ -14,7 +14,7 @@ Primero que todo debemos ir al Boton  llamado (   clonar o descargar) este boton
 
 
 Despues de descargado , seguimos a  descomprimir el archivo el cual mostrara esto y ejecutaremos el archiv (TP_2)o tambien llamado .exe
-
+![alt text](https://i.imgur.com/jMQWS1O.jpg "Logo Title Text 2")
 
 ### Funciones del programa.
 
@@ -35,7 +35,7 @@ Estas opciones toman la informacion guardandola como variables , esto para que? 
 
 Debido ejemplo de la situacion.
 
-  
+![alt text](https://i.imgur.com/R3ZE7xD.png "Logo Title Text 2")
   
 2.Editar dicha informacion del cliente y su compra.
   
